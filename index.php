@@ -5,13 +5,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Code Game</title>
 
-	<link rel="stylesheet" type="text/css" href="styles.css">
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" type="text/css" href="css/index.css">
 </head>
 <body>
 	<div id="gameZone">
 		<div id="headerText">Code Game</div>
 		<ul id="mainMenu">
-			<li><a href="#">TÄZE OÝUN</a></li>
+			<li><a href="newGame.html">TÄZE OÝUN</a></li>
 			<li><a href="#">SAZLAMALAR</a></li>
 			<li><a href="#">REÝTING</a></li>
 		</ul>
