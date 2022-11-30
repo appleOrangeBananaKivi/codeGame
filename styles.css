@@ -1,9 +1,39 @@
 body{
 	margin: 0;
+	font-family: 'Microsoft JhengHei';
 }
 #gameZone{
 	width: 70%;
 	height: 100vh;
-	background-color: green;
 	margin: auto;
+	background-image: url('assets/3181600.jpg');
+	background-size: 100% 100%;
+	position: relative;
+	padding-top: 30px;
+}
+#headerText{
+	color: white;
+	text-align: center;
+	font-size: 80px;
+}
+#mainMenu{
+	width: 200px;
+	margin: auto;
+	margin-top: 100px;
+	padding: 0;
+	list-style: none;
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0.3);
+	padding: 40px;
+}
+#mainMenu li{
+	margin-bottom: 45px;
+}
+#mainMenu li:last-child{
+	margin-bottom: 0;
+}
+#mainMenu a{
+	color: white;
+	text-decoration: none;
+	font-size: 28px;
 }
