@@ -12,7 +12,7 @@
 	<div id="gameZone">
 		<div id="headerText">Code Game</div>
 		<div id="mainMenu">
-			<a class="gameLevelBlock" href="#">1</a>
+			<a class="gameLevelBlock" href="gameLevel.php">1</a>
 			<a class="gameLevelBlock" href="#">2</a>
 			<a class="gameLevelBlock" href="#">3</a>
 			<a class="gameLevelBlock rightBlocks" href="#">4</a>

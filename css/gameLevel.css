@@ -1,0 +1,55 @@
+#levelHeader{
+	color: white;
+	margin-left: 30px;
+	font-size: 22px;
+}
+#codeBlock{
+	width: 20%;
+	background-color: #003C65;
+	border: 1px solid white;
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	color: white;
+	padding: 15px;
+}
+#contentBlock{
+	margin-bottom: 10px;
+}
+#writeCodeText{
+	margin-bottom: 10px;
+}
+#commandLine{
+	width: 99%;
+	height: 200px;
+	background-color: rgb(40, 40, 40);
+	color: white;
+	resize: none;
+}
+#runButton{
+	width: 90px;
+	height: 30px;
+	background-color: rgb(2, 100, 7);
+	color: white;
+	border-color: white;
+	margin-top: 5px;
+	float: right;
+}
+.sprite{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}
+#sprite1{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+#sprite2{
+	left: -28px;
+	top: 40px;
+}
+#sprite3{
+	left: 65px;
+	top: 14px;
+}

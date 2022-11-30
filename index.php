@@ -12,7 +12,7 @@
 	<div id="gameZone">
 		<div id="headerText">Code Game</div>
 		<ul id="mainMenu">
-			<li><a href="newGame.html">TÄZE OÝUN</a></li>
+			<li><a href="newGame.php">TÄZE OÝUN</a></li>
 			<li><a href="#">SAZLAMALAR</a></li>
 			<li><a href="#">REÝTING</a></li>
 		</ul>
